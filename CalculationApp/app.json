@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "CalculationApp",
+    "slug": "CalculationApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.limwaimin.CalculationApp"
+    },
+    "scheme": "CalculationApp",
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb186497-a509-4d0e-ad0f-507f85618448"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
