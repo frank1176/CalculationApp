@@ -1,6 +1,6 @@
 {
   "cli": {
-    "version": ">= 7.5.0"
+    "version": ">= 7.6.0"
   },
   "build": {
     "preview": {
@@ -9,7 +9,7 @@
       }
     },
     "preview2": {
-      "android": { 
+      "android": {
         "gradleCommand": ":app:assembleRelease"
       }
     },

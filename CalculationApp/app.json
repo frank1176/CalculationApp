@@ -21,10 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.limwaimin.CalculationApp"
+      }
     },
-    "scheme": "CalculationApp",
     "web": {
       "favicon": "./assets/favicon.png"
     },
